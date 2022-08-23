@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mikaiyl.io.iml" filepath="$PROJECT_DIR$/mikaiyl.io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mikaiyl.dev.iml" filepath="$PROJECT_DIR$/.idea/mikaiyl.dev.iml" />
     </modules>
   </component>
 </project>
